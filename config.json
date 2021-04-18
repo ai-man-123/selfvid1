@@ -1,0 +1,14 @@
+{
+  "VhtearKey": "YOUR_APIKEY",
+  "xteam": "YOUR_APIKEY",
+  "YoutubeKey": "YOUR_APIKEY",
+  "author": "NAMA_LU",
+  "NomorSELF": "6288xxxxx@c.us",
+  "packname": "SELF-BOT",
+  "isSelfOnlys": true,
+  "afkkontak": false,
+  "afktag": {
+    "status": true,
+    "message": {}
+  }
+}
